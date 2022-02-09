@@ -1,1 +1,1 @@
-# CIS-30A-Winter-2022
+# CIS-30A, Winter 2022
